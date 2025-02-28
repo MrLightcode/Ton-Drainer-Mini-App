@@ -31,7 +31,7 @@
 
 ### **Demo Video**
 To see the full robot and website demo, watch the video below:
-[![Demo Video](https://img.youtube.com/vi/abc123xyz/0.jpg)](https://www.youtube.com/watch?v=BKUdfDBVSeg&t=156s)
+[[Demo Video]](https://www.youtube.com/watch?v=BKUdfDBVSeg)
 
 ### **Bot Interface**
 <div style="display: flex; overflow-x: auto;">
@@ -65,7 +65,7 @@ To see the full robot and website demo, watch the video below:
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP, MySQL
-- **Hosting**: Compatible with any PHP [https://mrlightcode.site/product/linux-host-cpanel-germany/](hosting) environment.
+- **Hosting**: Compatible with any PHP [hosting](https://mrlightcode.site/product/linux-host-cpanel-germany/) environment.
 
 ---
 
